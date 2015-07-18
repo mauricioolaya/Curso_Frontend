@@ -1,0 +1,52 @@
+Notas
+
+-------instlaciones-----------------
+
+Sublime Text 3
+cuenta en github.com
+App de github(githob)
+Node.js (nouyees)"nodejs.org"
+npm install stylus -g
+___________________________________________________
+
+Cuentas
+
+------Git Hub--------------
+url:https://github.com/
+usuario: mauricioolaya91@gmail.com
+password: =carlostaker18
+---------------------------
+------node js--------------
+node js (noud yees)
+url:https://nodejs.org/
+verificacion: node -v
+instalacion: npm install stylus -g
+instalcion en mac o linux: sudo npm install stylus -g
+verificacion stylus-V
+node packas manager (npm)
+stylus (stalus) mejor forma de hacer css 
+---------------------------
+________________________________________________________
+Diccionario de Palabras
+
+filosofias 
+	--Moviles frist 
+	--responsive design (responsi disain)
+
+retina display
+float
+rizee no usa normalize(normalais)
+sin protocolo doble // http o https contenido no seguro cargar assets externos desde navegador
+
+dividir dominios o subdominios para varios idiomes google indexa por dominios
+oocss(object oriente Css) orientado objetos utilicemos las clases y que estas sean sus propiedades 
+javascrip utilizamos los Id elementos selectores perfomance (perfomas)=mejorar el perfomance=rendimiento-desempeño
+pseudoelementos afeter y befeore(bifor)
+sencouri antes ahora emmet
+_________________________________________________
+
+--------------Frontend----------------
+
+-----html5-------------------
+url: https://html5boilerplate.com/
+html5 boilerplate 
