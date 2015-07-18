@@ -16,16 +16,7 @@ url:https://github.com/
 usuario: mauricioolaya91@gmail.com
 password: =carlostaker18
 ---------------------------
-------node js--------------
-node js (noud yees)
-url:https://nodejs.org/
-verificacion: node -v
-instalacion: npm install stylus -g
-instalcion en mac o linux: sudo npm install stylus -g
-verificacion stylus-V
-node packas manager (npm)
-stylus (stalus) mejor forma de hacer css 
----------------------------
+
 ________________________________________________________
 Diccionario de Palabras
 
@@ -43,6 +34,10 @@ oocss(object oriente Css) orientado objetos utilicemos las clases y que estas se
 javascrip utilizamos los Id elementos selectores perfomance (perfomas)=mejorar el perfomance=rendimiento-desempeño
 pseudoelementos afeter y befeore(bifor)
 sencouri antes ahora emmet
+diseño retina 1px son 4 px
+retine display
+hail densiti display
+exportar al 200% al 50% de calidad
 _________________________________________________
 
 --------------Frontend----------------
@@ -50,3 +45,20 @@ _________________________________________________
 -----html5-------------------
 url: https://html5boilerplate.com/
 html5 boilerplate 
+
+------node js--------------
+node js (noud yeas)
+url:https://nodejs.org/
+verificacion: node -v
+instalacion: npm install stylus -g
+instalcion en mac o linux: sudo npm install stylus -g
+verificacion stylus-V
+node packas manager (npm)
+stylus (stailus) mejor forma de hacer css 
+---------------------------
+
+---------------stylus----------------------------
+stylus nombre
+stylus -c comprimi
+stylus -w lo deja en ejecucions activado
+--------------------------------------------------
