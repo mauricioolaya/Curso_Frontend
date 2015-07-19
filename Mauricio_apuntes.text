@@ -38,6 +38,7 @@ diseño retina 1px son 4 px
 retine display
 hail densiti display
 exportar al 200% al 50% de calidad
+git surverchion mercury
 _________________________________________________
 
 --------------Frontend----------------
@@ -58,7 +59,26 @@ stylus (stailus) mejor forma de hacer css
 ---------------------------
 
 ---------------stylus----------------------------
+url:http://learnboost.github.io/stylus/
 stylus nombre
 stylus -c comprimi
 stylus -w lo deja en ejecucions activado
+stylus -u nib  crea los prefijos
 --------------------------------------------------
+
+codigo css
+overflow hidden me permite que no se desborde olbiga a la caja
+overflow-x auto
+text-shadow: 1px 1px 0px #000; sombreado en el texto
+font-weight bold
+z-index 2 me permite colocar encima de una magen
+-----menu con scroll -----------------
+		heigth 40px
+		line-heigth 40px 
+		margin 0
+		padding 0
+		overflow-x auto scroll vertical
+		text-align left
+		white-space nowrap scroll horizontal
+		
+--------------------------------------
