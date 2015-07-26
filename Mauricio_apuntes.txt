@@ -1,3 +1,4 @@
+www.graphicsonline.org
 Notas
 
 -------instlaciones-----------------
@@ -82,3 +83,12 @@ z-index 2 me permite colocar encima de una magen
 		white-space nowrap scroll horizontal
 		
 --------------------------------------
+
+-------iconos-------------------------
+url icomoon.io/app/#/select
+fuentes las tipografias son por defecto vectores son mucho mas eficiente que sgb y se ajustan automaticamente a diseños retina en ves de usar icononos basados en png la recomendacion del diseño actual es crear iconos basados en fuentes y a apartir de esas fuentes se hace el diseño que quieran 
+crear iconos basodos en fuentes
+-------------------------------------
+&:nth-child
+odd impares
+even par
