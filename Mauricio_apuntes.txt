@@ -92,3 +92,21 @@ crear iconos basodos en fuentes
 &:nth-child
 odd impares
 even par
+https://www.youtube.com/watch?v=0f09-lMqfjc&index=2&list=PLNAhb_3cvPKuX2-KEDRD0EyZE7t41ESaX
+
+-------------------------Sublime Text 3 trucos-----------------------------
+shit 2= comillas
+ctrl p = buscar archivos
+ctrl p #= buscar plabras dentro del archivo 
+ctrl p : numero de linea = me ubica en la linea seleccionada
+ctrl c = paleta de colores
+ctrl r = buscar funciones
+ctrl alt x = prefijos
+
+installs packagues
+1.Advancenewfile
+2.emmet
+3.stylus 
+4.alignment
+5.colorpicker
+6.prefixr
